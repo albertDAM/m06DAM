@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+
+public class MenorsEdat {
+
+	public static void main(String[] args) {
+		
+		ArrayList<String> persones = new ArrayList<String>();
+		
+		persones.add("Albert");
+		persones.add("Jonathan");
+		persones.add("Alba");
+		persones.add("Oscar");
+		persones.add("Karen");
+		persones.add("Jenifer");
+		
+		System.out.println(persones);
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package proba;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Proba22 {
+
+	public static void main(String[] args) {
+		ArrayList list = new ArrayList();
+		
+		String element1 = "element1";
+		
+		list.add(elemet1);
+			
+		
+		
+	}
+
+}

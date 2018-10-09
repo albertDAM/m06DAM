@@ -1,0 +1,10 @@
+package m06;
+
+import java.io.File;
+
+public class Create {
+	
+	File c = new File("arxiu");
+	
+
+}

@@ -1,0 +1,32 @@
+package proba;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Proba22 {
+
+	public static void main(String[] args) {
+
+		ArrayList<String> list = new ArrayList<String>();
+		
+		for (int i = 0; i < 20; i++) {
+			list.add("Text " + i);
+			
+		}
+		
+		System.out.println(list.size());
+		
+		/*int element1 = Integer.parseInt("11");*/
+		
+
+		
+		
+
+		
+		
+			
+		
+		
+	}
+
+}

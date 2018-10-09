@@ -1,0 +1,15 @@
+
+public class Gos {
+	
+	String color;
+	String tamany;
+	int edat;
+
+
+
+public String getInfo() {
+	return ("el color es:" + color + "el tamany es:" + tamany + "la edat es" + edat);
+	
+}
+}
+

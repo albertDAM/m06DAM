@@ -1,0 +1,10 @@
+import java.io.FileNotFoundException;
+import java.io.RandomAccessFile;
+
+public class Prueba {
+
+	public static void main(String[] args) throws FileNotFoundException {
+
+			RandomAccessFile raf = new RandomAccessFile("/test.txt", "rw");
+	}
+}

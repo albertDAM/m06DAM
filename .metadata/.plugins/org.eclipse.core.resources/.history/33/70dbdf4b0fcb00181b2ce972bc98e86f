@@ -1,0 +1,20 @@
+
+public class Persona {
+	
+	String edat;
+	int nom;
+	public Persona(String edat, int nom) {
+		super();
+		this.edat = edat;
+		this.nom = nom;
+	}
+	@Override
+	public String toString() {
+		return "Persona [edat=" + edat + ", nom=" + nom + "]";
+	}
+
+	public void wave() {
+		System.out.printf("Hola em dic %s i tinc %d anys");
+	}
+}
+

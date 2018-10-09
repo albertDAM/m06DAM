@@ -1,0 +1,18 @@
+package m06;
+
+import java.io.File;
+
+public class Metadata {
+
+	public static void main(String[] args) {
+
+		
+		File c = new File("arxiu");
+		
+		/*Create c = new Create();
+		c.run();*/
+		
+
+	}
+
+}

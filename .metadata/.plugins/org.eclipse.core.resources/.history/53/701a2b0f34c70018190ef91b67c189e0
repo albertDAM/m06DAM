@@ -1,0 +1,44 @@
+package proba;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Proba22 {
+
+	public static void main(String[] args) {
+
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		ArrayList<Integer> list2 = new ArrayList<Integer>();
+		
+		for (int i = 0; i < 20; i++) {
+			list.add(i);
+			
+		}
+		
+		System.out.println(list.size());
+		
+		for (int i = 0; i<list.size(); i++) {
+			
+			//System.out.println(list.get(i).toString());
+			list.get(i);
+			list.set(i, (int) (Math.pow(i, 2)));
+			
+			System.out.println(list.get(i));
+		}
+		
+		//Math.pow(a, b)
+		
+		/*int element1 = Integer.parseInt("11");*/
+		
+
+		
+		
+
+		
+		
+			
+		
+		
+	}
+
+}

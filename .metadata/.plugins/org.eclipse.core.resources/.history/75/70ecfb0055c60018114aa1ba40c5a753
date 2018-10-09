@@ -1,0 +1,9 @@
+package m06;
+
+import java.io.File;
+
+void run Create {
+	
+	File c = new File("arxiu");
+
+}

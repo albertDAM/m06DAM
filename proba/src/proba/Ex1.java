@@ -1,0 +1,19 @@
+package proba;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Hola mundo");
+		
+		/*List<String> list = new ArrayList(<String>);
+		
+		String element1 = "element1";
+		
+		list.add(elemet1);*/
+			
+
+	}
+
+}

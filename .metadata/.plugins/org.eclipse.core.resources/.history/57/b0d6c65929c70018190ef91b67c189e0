@@ -1,0 +1,25 @@
+package proba;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Proba22 {
+
+	public static void main(String[] args) {
+		ArrayList list = new ArrayList();
+		
+		int element1 = Integer.parseInt("11");
+		
+		
+		
+		list.add(element1);
+		
+		System.out.println(element1);
+		
+		
+			
+		
+		
+	}
+
+}
